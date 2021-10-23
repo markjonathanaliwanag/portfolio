@@ -13,6 +13,7 @@ html, body {
     max-width: 1920px;
     margin: 0 auto;
     padding: 0 10%;
+    height: 100%;
 }
 
 h1 {
@@ -30,7 +31,10 @@ h1 {
     align-items: center;
 }
 #profile-img .inner {
-    text-align: right;   
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center; 
 }
 
 #profile-img .profile-img {
