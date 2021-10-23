@@ -28,3 +28,12 @@ h1 {
     display: flex;
     align-items: center;
 }
+#profile-img {
+    text-align: right;
+}
+
+#profile-img .profile-img {
+    max-width: 800px;
+    width: 100%;
+    margin: auto 10%;
+}
