@@ -35,9 +35,9 @@ h1 {
     display: flex;
     align-items: center;
 }
-#profile-img {
+#profile-img .inner {
     text-align: right;
-        padding: 0 10%;
+    padding: 0 10%;
 }
 
 #profile-img .profile-img {
