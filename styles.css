@@ -3,3 +3,8 @@ body {
     margin: 0;
     background: honeydew;
 }
+
+.wrapper {
+    max-width: 1320px;
+    margin: 0 auto;
+}
