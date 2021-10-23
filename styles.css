@@ -30,10 +30,10 @@ h1 {
 }
 #profile-img {
     text-align: right;
+        padding: 0 10%;
 }
 
 #profile-img .profile-img {
     max-width: 800px;
-    width: 100%;
-    margin: auto 10%;
+    width: 100%;    
 }
