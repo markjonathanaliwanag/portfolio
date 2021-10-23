@@ -8,3 +8,7 @@ body {
     max-width: 1320px;
     margin: 0 auto;
 }
+
+h1 {
+    margin: 0;
+}
