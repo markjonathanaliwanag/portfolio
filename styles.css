@@ -13,8 +13,10 @@ h1 {
     font-family: 'Roboto Mono', monospace;
 }
 
-.profile-img {
-    max-height: 800px;
+#profile-img {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
 }
 
 .full-height {
