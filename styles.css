@@ -9,7 +9,8 @@ html, body {
 }
 
 h1 {
-    margin: 0;    
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
 }
 
 .profile-img {
@@ -17,7 +18,7 @@ h1 {
 }
 
 .full-height {
-    height: 100%;
+    height: 100vh;
 }
 
 #main .wrapper {
