@@ -30,8 +30,7 @@ h1 {
     align-items: center;
 }
 #profile-img .inner {
-    text-align: right;
-    padding: 0 10%;
+    text-align: right;   
 }
 
 #profile-img .profile-img {
