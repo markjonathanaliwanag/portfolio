@@ -9,6 +9,12 @@ html, body {
     padding: 0 10%;
 }
 
+.wrapper-full {
+    max-width: 1920px;
+    margin: 0 auto;
+    padding: 0 10%;
+}
+
 h1 {
     margin: 0;
     font-family: 'Roboto Mono', monospace;
