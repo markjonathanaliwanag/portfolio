@@ -78,6 +78,7 @@ section {
 #profile-img-a .flex {
     display: flex;
     justify-content: space-between;
+    width: 100%;
 }
 #profile-img-a .inner {
     height: 100%;
