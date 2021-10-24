@@ -72,6 +72,9 @@ section {
     -webkit-filter: grayscale(0);
     filter: grayscale(0);
 }
+#profile-img-a .profile-img {
+    width: 50%;
+}
 #profile-img-a .flex {
     display: flex;
     justify-content: space-between;
