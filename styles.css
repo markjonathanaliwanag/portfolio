@@ -10,7 +10,7 @@ html, body {
 .wrapper {
     max-width: 1320px;
     margin: 0 auto;
-    padding: 50px 10%;
+    padding: 0 10%;
 }
 
 .wrapper-full {
@@ -38,6 +38,8 @@ section {
 .full-height {
     min-height: 100vh;
     border-bottom: 2px solid;
+    display: flex;
+    align-items: center;
 }
 
 #main .wrapper {
